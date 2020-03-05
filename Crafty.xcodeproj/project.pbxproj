@@ -27,12 +27,21 @@
 		27F6279B24114A1F003C4D06 /* FavoriteBeerCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F6279A24114A1F003C4D06 /* FavoriteBeerCollectionViewCell.swift */; };
 		27F6279E2411584A003C4D06 /* loadingFacts.json in Resources */ = {isa = PBXBuildFile; fileRef = 27F6279D2411584A003C4D06 /* loadingFacts.json */; };
 		27F627A0241158E2003C4D06 /* Fact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F6279F241158E2003C4D06 /* Fact.swift */; };
+		27F627A424115D64003C4D06 /* TestEnvironment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F627A324115D64003C4D06 /* TestEnvironment.swift */; };
+		27F627A824115F8A003C4D06 /* Environment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F627A724115F8A003C4D06 /* Environment.swift */; };
+		27F627A924116AB7003C4D06 /* Environment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F627A724115F8A003C4D06 /* Environment.swift */; };
+		27F627AA24116ABA003C4D06 /* UserCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A09A032411234E0093A124 /* UserCenter.swift */; };
+		27F627AB24116AC6003C4D06 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A099DD24101D070093A124 /* User.swift */; };
+		27F627AF24116C86003C4D06 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F627AE24116C86003C4D06 /* TestCase.swift */; };
+		27F627B4241182D3003C4D06 /* FirstScenario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F627B3241182D3003C4D06 /* FirstScenario.swift */; };
+		27F627B9241186DD003C4D06 /* ExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F627B8241186DD003C4D06 /* ExampleTests.swift */; };
+		27F627C424119685003C4D06 /* XCUIApplicationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F627C224119685003C4D06 /* XCUIApplicationExtension.swift */; };
+		27F627C524119685003C4D06 /* BeerElementQuery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F627C324119685003C4D06 /* BeerElementQuery.swift */; };
 		27FAB3EE240FA2E800BC66E4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27FAB3ED240FA2E800BC66E4 /* AppDelegate.swift */; };
 		27FAB3F0240FA2E800BC66E4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27FAB3EF240FA2E800BC66E4 /* SceneDelegate.swift */; };
 		27FAB3F5240FA2E800BC66E4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27FAB3F3240FA2E800BC66E4 /* Main.storyboard */; };
 		27FAB3F7240FA2EE00BC66E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27FAB3F6240FA2EE00BC66E4 /* Assets.xcassets */; };
 		27FAB3FA240FA2EE00BC66E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27FAB3F8240FA2EE00BC66E4 /* LaunchScreen.storyboard */; };
-		27FAB405240FA2EE00BC66E4 /* CraftyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27FAB404240FA2EE00BC66E4 /* CraftyUITests.swift */; };
 		27FAB411240FA42700BC66E4 /* LoadingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27FAB410240FA42700BC66E4 /* LoadingViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -67,6 +76,13 @@
 		27F6279A24114A1F003C4D06 /* FavoriteBeerCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteBeerCollectionViewCell.swift; sourceTree = "<group>"; };
 		27F6279D2411584A003C4D06 /* loadingFacts.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = loadingFacts.json; sourceTree = "<group>"; };
 		27F6279F241158E2003C4D06 /* Fact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fact.swift; sourceTree = "<group>"; };
+		27F627A324115D64003C4D06 /* TestEnvironment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestEnvironment.swift; sourceTree = "<group>"; };
+		27F627A724115F8A003C4D06 /* Environment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Environment.swift; sourceTree = "<group>"; };
+		27F627AE24116C86003C4D06 /* TestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCase.swift; sourceTree = "<group>"; };
+		27F627B3241182D3003C4D06 /* FirstScenario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstScenario.swift; sourceTree = "<group>"; };
+		27F627B8241186DD003C4D06 /* ExampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleTests.swift; sourceTree = "<group>"; };
+		27F627C224119685003C4D06 /* XCUIApplicationExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XCUIApplicationExtension.swift; sourceTree = "<group>"; };
+		27F627C324119685003C4D06 /* BeerElementQuery.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeerElementQuery.swift; sourceTree = "<group>"; };
 		27FAB3EA240FA2E800BC66E4 /* Crafty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Crafty.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		27FAB3ED240FA2E800BC66E4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		27FAB3EF240FA2E800BC66E4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,7 +91,6 @@
 		27FAB3F9240FA2EE00BC66E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		27FAB3FB240FA2EE00BC66E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		27FAB400240FA2EE00BC66E4 /* CraftyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CraftyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		27FAB404240FA2EE00BC66E4 /* CraftyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraftyUITests.swift; sourceTree = "<group>"; };
 		27FAB406240FA2EE00BC66E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		27FAB410240FA42700BC66E4 /* LoadingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -141,6 +156,7 @@
 			isa = PBXGroup;
 			children = (
 				27A09A032411234E0093A124 /* UserCenter.swift */,
+				27F627A724115F8A003C4D06 /* Environment.swift */,
 			);
 			path = Logic;
 			sourceTree = "<group>";
@@ -159,6 +175,41 @@
 				27FAB3F3240FA2E800BC66E4 /* Main.storyboard */,
 			);
 			path = Storyboard;
+			sourceTree = "<group>";
+		};
+		27F627AC24116C57003C4D06 /* Scenarios */ = {
+			isa = PBXGroup;
+			children = (
+				27F627B3241182D3003C4D06 /* FirstScenario.swift */,
+			);
+			path = Scenarios;
+			sourceTree = "<group>";
+		};
+		27F627AD24116C60003C4D06 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				27FAB406240FA2EE00BC66E4 /* Info.plist */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		27F627B2241182A1003C4D06 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				27F627C324119685003C4D06 /* BeerElementQuery.swift */,
+				27F627AE24116C86003C4D06 /* TestCase.swift */,
+				27F627A324115D64003C4D06 /* TestEnvironment.swift */,
+				27F627C224119685003C4D06 /* XCUIApplicationExtension.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		27F627B724118691003C4D06 /* Examples */ = {
+			isa = PBXGroup;
+			children = (
+				27F627B8241186DD003C4D06 /* ExampleTests.swift */,
+			);
+			path = Examples;
 			sourceTree = "<group>";
 		};
 		27FAB3E1240FA2E800BC66E4 = {
@@ -199,8 +250,10 @@
 		27FAB403240FA2EE00BC66E4 /* CraftyUITests */ = {
 			isa = PBXGroup;
 			children = (
-				27FAB404240FA2EE00BC66E4 /* CraftyUITests.swift */,
-				27FAB406240FA2EE00BC66E4 /* Info.plist */,
+				27F627B2241182A1003C4D06 /* Helpers */,
+				27F627AD24116C60003C4D06 /* Supporting Files */,
+				27F627B724118691003C4D06 /* Examples */,
+				27F627AC24116C57003C4D06 /* Scenarios */,
 			);
 			path = CraftyUITests;
 			sourceTree = "<group>";
@@ -327,6 +380,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				27A099DB24101CE20093A124 /* SearchBeerTableViewController.swift in Sources */,
+				27F627A824115F8A003C4D06 /* Environment.swift in Sources */,
 				27A099E92410B4540093A124 /* InfoViewController.swift in Sources */,
 				27A099D9240FF5900093A124 /* LoginViewController.swift in Sources */,
 				27A099DE24101D070093A124 /* User.swift in Sources */,
@@ -354,7 +408,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27FAB405240FA2EE00BC66E4 /* CraftyUITests.swift in Sources */,
+				27F627B9241186DD003C4D06 /* ExampleTests.swift in Sources */,
+				27F627AF24116C86003C4D06 /* TestCase.swift in Sources */,
+				27F627B4241182D3003C4D06 /* FirstScenario.swift in Sources */,
+				27F627C424119685003C4D06 /* XCUIApplicationExtension.swift in Sources */,
+				27F627AB24116AC6003C4D06 /* User.swift in Sources */,
+				27F627C524119685003C4D06 /* BeerElementQuery.swift in Sources */,
+				27F627AA24116ABA003C4D06 /* UserCenter.swift in Sources */,
+				27F627A424115D64003C4D06 /* TestEnvironment.swift in Sources */,
+				27F627A924116AB7003C4D06 /* Environment.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -544,7 +606,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 69R5V5WXM8;
-				INFOPLIST_FILE = CraftyUITests/Info.plist;
+				INFOPLIST_FILE = "CraftyUITests/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -564,7 +626,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 69R5V5WXM8;
-				INFOPLIST_FILE = CraftyUITests/Info.plist;
+				INFOPLIST_FILE = "CraftyUITests/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
