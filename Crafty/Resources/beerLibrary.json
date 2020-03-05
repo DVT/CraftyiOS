@@ -1,0 +1,128 @@
+{
+  "beers": [
+    {
+    "id": "0",
+    "name": "Devil’s Peak King’s Blockhouse IPA",
+    "companyId": "0",
+    "description": "Still our original IPA – still the King, Bask in the heady aromas and bold flavours of juicy, double dry-hopped perfection. Best enjoyed fresh – the way our brewer intended. Our flagship IPA has won the best beer on show at 2011, 2012 and 2014, 2019 Cape Town Festival of Beer, the 2014 Johannesburg Festival of Beer – and was the winner of the 2014 SAB Craft Brewer Championship. Enjoy our take on this iconic style.",
+    "rating": 5
+    },
+    {
+    "id": "1",
+    "name": "CBC Mandarina Bavaria IPA",
+    "companyId": "1",
+    "description": "A craft India Pale Ale boasting our Brewmaster Wolfgang’s best skills in each bottle. The exclusive use of Mandarina Bavaria Hops for extensive dry hopping makes this German style IPA a first ever in Africa. The bitterness is balanaced with a strong malt backbone. This fruity IPA offers strong nectarine, naartjie and lemon notes accentuated by a lively orange colour. It is best enjoyed with a long lost friend or alone.",
+    "rating": 5
+    },
+    {
+    "id": "2",
+    "name": "Honey Sun Iqhilika (Mead) – Herbal",
+    "companyId": "2",
+    "description": "Our prize-winning mead  - Gold medal award winner in the Speciality Category at the 2006 International Mead Festival in Boulder, Colorado.A good stand alone sundowner, a well matched partner to spicy dishes and stir fries, game and poultry and a companion to desserts and coffees.",
+    "rating": 5
+    },
+    {
+    "id": "3",
+    "name": "Triggerfish Titan",
+    "companyId": "3",
+    "description": "The titan triggerfish, giant triggerfish or moustache triggerfish (Balistoides viridescens) is a large species of triggerfish found in lagoons and at reefs to depths of 50 m (160 ft) in most of the Indo-Pacific, though it is absent from Hawaii. Also a beer.",
+    "rating": 4
+    },
+    {
+    "id": "4",
+    "name": "CBC Cape of Good Hops",
+    "companyId": "1",
+    "description": "A strong beer of imperial style and proportions was needed to face 'Adamastor', the mythical Titan banned to the stormy waters around the Cape of Good Hope. Only the bravest of men would conquer his territory to ship beer to the Indian colonies. This dark golden craft Imperial IPA offers a malty backbone to balance the beautifully strong bitterness from dry hopping with American Mosaic and Gelena hops. It is best enjoyed with a long lost friend of alone.",
+    "rating": 4
+    },
+    {
+    "id": "5",
+    "name": "Collective São Gabriel Touro Tripel Blonde",
+    "companyId": "4",
+    "description": "This is a wickedly rich strong blonde ale with a creamy palate and a fruity, spicy, malt flavour. Huge and complex, this golden beauty is brewed with three times the normal amount of barley and is refermented in the bottle. Big enough for bold dishes, but elegant enough for refined tastes, its’ initial sweetnes is deftly balanced by a low hop bitterness.",
+    "rating": 4
+    },
+    {
+    "id": "6",
+    "name": "Triggerfish Black Marlin",
+    "companyId": "3",
+    "description": "Black Marlin pours pitch black with a dense tan head. A wild winter beer powerful in aroma and taste Complexity comes from 7 different malts, 3 hops and a touch of our own South African trecle. Coffee, dark chocolate, aniseed, dark fruit and caramel in the aroma prepares you for the big taste and lingering bitter finish. This beer is best enjoyed at around 11°C and pairs well with rich warm deserts and dark chocolate.",
+    "rating": 5
+    },
+    {
+    "id": "7",
+    "name": "Woodstock Californicator",
+    "companyId": "5",
+    "description": "Crafted in the style of India Pale Ales brewed in the US Pacific Coast. This hop forward American IPA exudes rich tropical and citrus fruit aromas in abundance with a medium to full-bodied mouth feel, and a clean, lingering fruity finish.",
+    "rating": 4
+    },
+    {
+    "id": "8",
+    "name": "Copperlake IPA",
+    "companyId": "10",
+    "description": "Prominent citrus, floral, pine aroma with a fruity character. With a slight yet confident malty sweetness. Serve Chilled 5°C to 10°C",
+    "rating": 3
+    },
+    {
+    "id": "9",
+    "name": "Triggerfish Empowered Stout",
+    "companyId": "3",
+    "description": "Empowered Stout is a complex full bodied English sweet stout. This beer gets its malty complexity and colour from a combination of five different malts and two hop varieties. Coffee, dark chocolate, dried fruit, raisins and licorice in the aroma with detectable sweetness balanced by the bitterness derived from the hops and roasted malts. This beer is best enjoyed at around 11°C and pairs well with meat dishes or dark chocolate.",
+    "rating": 3
+    },
+    {
+    "id": "10",
+    "name": "Gilroy Traditional Ruby Ale",
+    "companyId": "9",
+    "description": "Our classic ruby ale - a magnificent explosion of flavours on the tongue.  Brewed using the best English kilned barley grain, the finest malts and Kentish noble hops. ",
+    "rating": 2
+    }
+  ],
+  "companies": [
+    {
+      "id": "0",
+      "name": "Devil’s Peak Brewing Company"
+    },
+    {
+      "id": "1",
+      "name": "Cape Brewing Company"
+    },
+    {
+      "id": "2",
+      "name": "Makana Meadery"
+    },
+    {
+      "id": "3",
+      "name": "Triggerfish Brewing"
+    },
+    {
+      "id": "4",
+      "name": "Collective São Gabriel"
+    },
+    {
+      "id": "5",
+      "name": "Woodstock Brewery"
+    },
+    {
+      "id": "6",
+      "name": "Jack Black Brewing Company"
+    },
+    {
+      "id": "7",
+      "name": "Draymans (South Africa)"
+    },
+    {
+      "id": "8",
+      "name": "Citizen Beer"
+    },
+    {
+      "id": "9",
+      "name": "Gilroy's"
+    },
+    {
+      "id": "10",
+      "name": "Copperlake Breweries"
+    }
+  ],
+  "href": "https://businesstech.co.za/news/general/138643/these-are-the-25-best-rated-beers-in-south-africa/"
+}
