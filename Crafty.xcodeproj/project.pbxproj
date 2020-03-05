@@ -38,6 +38,7 @@
 		27F627C424119685003C4D06 /* XCUIApplicationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F627C224119685003C4D06 /* XCUIApplicationExtension.swift */; };
 		27F627C524119685003C4D06 /* BeerElementQuery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F627C324119685003C4D06 /* BeerElementQuery.swift */; };
 		27F627C7241196D1003C4D06 /* FirstScenarioSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F627C6241196D0003C4D06 /* FirstScenarioSolution.swift */; };
+		27F627C92411974A003C4D06 /* SecondScenario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F627C82411974A003C4D06 /* SecondScenario.swift */; };
 		27FAB3EE240FA2E800BC66E4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27FAB3ED240FA2E800BC66E4 /* AppDelegate.swift */; };
 		27FAB3F0240FA2E800BC66E4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27FAB3EF240FA2E800BC66E4 /* SceneDelegate.swift */; };
 		27FAB3F5240FA2E800BC66E4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27FAB3F3240FA2E800BC66E4 /* Main.storyboard */; };
@@ -85,6 +86,7 @@
 		27F627C224119685003C4D06 /* XCUIApplicationExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XCUIApplicationExtension.swift; sourceTree = "<group>"; };
 		27F627C324119685003C4D06 /* BeerElementQuery.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeerElementQuery.swift; sourceTree = "<group>"; };
 		27F627C6241196D0003C4D06 /* FirstScenarioSolution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstScenarioSolution.swift; sourceTree = "<group>"; };
+		27F627C82411974A003C4D06 /* SecondScenario.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondScenario.swift; sourceTree = "<group>"; };
 		27FAB3EA240FA2E800BC66E4 /* Crafty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Crafty.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		27FAB3ED240FA2E800BC66E4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		27FAB3EF240FA2E800BC66E4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -184,6 +186,7 @@
 			children = (
 				27F627B3241182D3003C4D06 /* FirstScenario.swift */,
 				27F627C6241196D0003C4D06 /* FirstScenarioSolution.swift */,
+				27F627C82411974A003C4D06 /* SecondScenario.swift */,
 			);
 			path = Scenarios;
 			sourceTree = "<group>";
@@ -417,6 +420,7 @@
 				27F627C424119685003C4D06 /* XCUIApplicationExtension.swift in Sources */,
 				27F627AB24116AC6003C4D06 /* User.swift in Sources */,
 				27F627C524119685003C4D06 /* BeerElementQuery.swift in Sources */,
+				27F627C92411974A003C4D06 /* SecondScenario.swift in Sources */,
 				27F627AA24116ABA003C4D06 /* UserCenter.swift in Sources */,
 				27F627A424115D64003C4D06 /* TestEnvironment.swift in Sources */,
 				27F627A924116AB7003C4D06 /* Environment.swift in Sources */,
