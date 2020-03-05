@@ -22,4 +22,58 @@ class TestCase: XCTestCase {
         environment = TestEnvironment(application: application)
     }
 
+    func signInUser() {
+        // Tap on the username text field to present the keyboard
+        application.usernameTextField.tap()
+
+        // Tap the "user" keys on the keyboard
+        application.tapKeys(text: "user")
+
+        // Tap on the password text field to change focus of the keyboard
+        application.passwordTextField.tap()
+
+        // Tap the "password" keys on the keyboard
+        application.tapKeys(text: "password")
+
+        // Tap "Go Drink!" button to login
+        application.goDrinkButton.tap()
+
+        // Add delay to ensure we have enough time to display the "My Beer" tab
+        sleep(1)
+    }
+
+    func signUpUser() {
+        // Tap on the username text field to present the keyboard
+        application.usernameTextField.tap()
+
+        // Tap the "user" keys on the keyboard
+        application.tapKeys(text: "user")
+
+        // Tap on the password text field to change focus of the keyboard
+        application.passwordTextField.tap()
+
+        // Tap the "password" keys on the keyboard
+        application.tapKeys(text: "password")
+
+        // Tap on the confirm password text field to change focus of the
+        // keyboard
+        application.confirmPasswordTextField.tap()
+
+        // Tap the "password" keys on the keyboard
+        application.tapKeys(text: "password")
+
+        // Tap "I Want A Drink!" button to sign up
+        application.iWantADrinkButton.tap()
+
+        // Add delay to ensure we have enough time to display the "Agreement"
+        // screen
+        sleep(1)
+
+        // Tap "I Agree!" button
+        application.iAgreeButton.tap()
+
+        // Add delay to ensure we have enough time to display the "My Beer" tab
+        sleep(1)
+    }
+
 }
